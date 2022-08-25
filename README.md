@@ -1,4 +1,4 @@
-# xsmtp
+# [xsmtp](http://xsmtp.co/)
 
 A simple SMTP mail server, a tiny but complete realization of smtp protocol.
 
@@ -9,7 +9,7 @@ A simple SMTP mail server, a tiny but complete realization of smtp protocol.
 - Multithread: create a thread for each client's request  
 - Authentication: store username and passwd to a file
 - Base64 encode and decode  
-
+http://xsmtp.co/
 ## Usage  
 1) Get the source    
 ```
