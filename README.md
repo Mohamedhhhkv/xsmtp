@@ -1,4 +1,4 @@
-# xsmtp
+# xsmtp.co
 
 A simple SMTP mail server, a tiny but complete realization of smtp protocol.
 
